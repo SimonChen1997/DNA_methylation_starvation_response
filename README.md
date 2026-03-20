@@ -8,12 +8,12 @@ This is a study to identify the genome-wide bacterial🦠 DNA methylation variat
 
 **🦠Section 2: DNA lengths and copy numbers:**
 
-*DNA_length_copy_number* folder contains all scripts for this analysis.
+*dna_length_copy_number* folder contains all scripts for this analysis.
 <br/><br/>
 
 **🦠Section 3: DNA methylation levels:**
 
-*DNA_methylation_level* folder contains all scripts for this analysis.
+*dna_methyl_level* folder contains all scripts for this analysis.
 <br/><br/>
 
 **🦠Section 4: Differentially methylation and expression:**
