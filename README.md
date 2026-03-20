@@ -1,4 +1,4 @@
-# DNA methylation variation under starvation response
+# Bacterial DNA methylation variation during growth phase transition
 This is a study to identify the genome-wide bacterial🦠 DNA methylation variation between the exponential and stationary phases using Oxford Nanopore sequencing.
 
 **🦠Section 1: Sequencing depth determination:**
@@ -28,6 +28,6 @@ This is a study to identify the genome-wide bacterial🦠 DNA methylation variat
 
 **✨If you are using the method in this repository, please cite our paper:**
 
-xxxxxx
+*Growth phase-related DNA methylation and localized DNA fragment density variation in Escherichia coli and Lactobacillus acidophilus genomes*
 
 DOI: xxxxxx
