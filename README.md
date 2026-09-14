@@ -28,6 +28,6 @@ This is a study to identify the genome-wide bacterial🦠 DNA methylation variat
 
 **✨If you are using the method in this repository, please cite our paper:**
 
-*Growth phase-related DNA methylation and localized DNA fragment density variation in Escherichia coli and Lactobacillus acidophilus genomes*
+Chen Z, Ong CT, Chau D, Ross EM. *Growth phase-related DNA methylation and localized DNA fragment density variation in Escherichia coli and Lactobacillus acidophilus genomes*, *Epigenomes*. 2026; 10(3):57.
 
-DOI: xxxxxx
+DOI: 10.3390/epigenomes10030057
